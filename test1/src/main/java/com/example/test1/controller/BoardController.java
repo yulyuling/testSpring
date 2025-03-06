@@ -15,7 +15,7 @@ import com.google.gson.Gson;
 
 @Controller
 public class BoardController {
-
+ 
 	@Autowired
 	BoardService boardService;
 	
